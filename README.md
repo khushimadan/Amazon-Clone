@@ -4,7 +4,6 @@ This project is a simple clone of the Amazon website created using HTML and CSS.
 
 ### Features:
 - **Homepage Layout**: Mimics the layout of the Amazon homepage with header, navigation bar, product listings, and footer.
-- **Responsive Design**: Utilizes CSS media queries to ensure the website is optimized for various screen sizes, from desktop to mobile.
 - **Styling**: Implements CSS to replicate Amazon's color scheme, typography, and basic styling elements.
 
 ### Technologies Used:
